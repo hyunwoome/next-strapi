@@ -1,0 +1,154 @@
+[
+	{
+		"id": 1,
+		"name": "The Complete Strapi Course",
+		"content": "The Complte Starpi Course. ",
+		"meta_description": "The Complete Strapi course",
+		"meta_title": "the Complete Strapi Course - Enterprise Store",
+		"price": 12.99,
+		"slug": "the-complete-strapi-course",
+		"published_at": "2021-02-12T06:09:59.491Z",
+		"created_at": "2021-02-12T06:09:35.833Z",
+		"updated_at": "2021-02-12T06:09:59.518Z",
+		"image": {
+			"id": 1,
+			"name": "Screen Shot 2021-02-08 at 4.46.21 PM.png",
+			"alternativeText": "",
+			"caption": "",
+			"width": 1074,
+			"height": 1324,
+			"formats": {
+				"thumbnail": {
+					"name": "thumbnail_Screen Shot 2021-02-08 at 4.46.21 PM.png",
+					"hash": "thumbnail_Screen_Shot_2021_02_08_at_4_46_21_PM_0d0434b2d5",
+					"ext": ".png",
+					"mime": "image/png",
+					"width": 127,
+					"height": 156,
+					"size": 4.94,
+					"path": null,
+					"url": "/uploads/thumbnail_Screen_Shot_2021_02_08_at_4_46_21_PM_0d0434b2d5.png"
+				},
+				"large": {
+					"name": "large_Screen Shot 2021-02-08 at 4.46.21 PM.png",
+					"hash": "large_Screen_Shot_2021_02_08_at_4_46_21_PM_0d0434b2d5",
+					"ext": ".png",
+					"mime": "image/png",
+					"width": 811,
+					"height": 1000,
+					"size": 69.17,
+					"path": null,
+					"url": "/uploads/large_Screen_Shot_2021_02_08_at_4_46_21_PM_0d0434b2d5.png"
+				},
+				"medium": {
+					"name": "medium_Screen Shot 2021-02-08 at 4.46.21 PM.png",
+					"hash": "medium_Screen_Shot_2021_02_08_at_4_46_21_PM_0d0434b2d5",
+					"ext": ".png",
+					"mime": "image/png",
+					"width": 608,
+					"height": 750,
+					"size": 47.17,
+					"path": null,
+					"url": "/uploads/medium_Screen_Shot_2021_02_08_at_4_46_21_PM_0d0434b2d5.png"
+				},
+				"small": {
+					"name": "small_Screen Shot 2021-02-08 at 4.46.21 PM.png",
+					"hash": "small_Screen_Shot_2021_02_08_at_4_46_21_PM_0d0434b2d5",
+					"ext": ".png",
+					"mime": "image/png",
+					"width": 406,
+					"height": 500,
+					"size": 26.48,
+					"path": null,
+					"url": "/uploads/small_Screen_Shot_2021_02_08_at_4_46_21_PM_0d0434b2d5.png"
+				}
+			},
+			"hash": "Screen_Shot_2021_02_08_at_4_46_21_PM_0d0434b2d5",
+			"ext": ".png",
+			"mime": "image/png",
+			"size": 64.72,
+			"url": "/uploads/Screen_Shot_2021_02_08_at_4_46_21_PM_0d0434b2d5.png",
+			"previewUrl": null,
+			"provider": "local",
+			"provider_metadata": null,
+			"created_at": "2021-02-12T06:08:29.425Z",
+			"updated_at": "2021-02-12T06:08:29.437Z"
+		}
+	},
+	{
+		"id": 2,
+		"name": "The Next.js with Stapi Course ",
+		"content": "THe next.js ",
+		"meta_description": "THe next.js Couse description",
+		"meta_title": "THe next.js  enterpirse store",
+		"price": 398,
+		"slug": "the-next-js-with-stapi-course",
+		"published_at": "2021-02-12T06:11:13.007Z",
+		"created_at": "2021-02-12T06:11:07.095Z",
+		"updated_at": "2021-02-12T06:11:13.034Z",
+		"image": {
+			"id": 1,
+			"name": "Screen Shot 2021-02-08 at 4.46.21 PM.png",
+			"alternativeText": "",
+			"caption": "",
+			"width": 1074,
+			"height": 1324,
+			"formats": {
+				"thumbnail": {
+					"name": "thumbnail_Screen Shot 2021-02-08 at 4.46.21 PM.png",
+					"hash": "thumbnail_Screen_Shot_2021_02_08_at_4_46_21_PM_0d0434b2d5",
+					"ext": ".png",
+					"mime": "image/png",
+					"width": 127,
+					"height": 156,
+					"size": 4.94,
+					"path": null,
+					"url": "/uploads/thumbnail_Screen_Shot_2021_02_08_at_4_46_21_PM_0d0434b2d5.png"
+				},
+				"large": {
+					"name": "large_Screen Shot 2021-02-08 at 4.46.21 PM.png",
+					"hash": "large_Screen_Shot_2021_02_08_at_4_46_21_PM_0d0434b2d5",
+					"ext": ".png",
+					"mime": "image/png",
+					"width": 811,
+					"height": 1000,
+					"size": 69.17,
+					"path": null,
+					"url": "/uploads/large_Screen_Shot_2021_02_08_at_4_46_21_PM_0d0434b2d5.png"
+				},
+				"medium": {
+					"name": "medium_Screen Shot 2021-02-08 at 4.46.21 PM.png",
+					"hash": "medium_Screen_Shot_2021_02_08_at_4_46_21_PM_0d0434b2d5",
+					"ext": ".png",
+					"mime": "image/png",
+					"width": 608,
+					"height": 750,
+					"size": 47.17,
+					"path": null,
+					"url": "/uploads/medium_Screen_Shot_2021_02_08_at_4_46_21_PM_0d0434b2d5.png"
+				},
+				"small": {
+					"name": "small_Screen Shot 2021-02-08 at 4.46.21 PM.png",
+					"hash": "small_Screen_Shot_2021_02_08_at_4_46_21_PM_0d0434b2d5",
+					"ext": ".png",
+					"mime": "image/png",
+					"width": 406,
+					"height": 500,
+					"size": 26.48,
+					"path": null,
+					"url": "/uploads/small_Screen_Shot_2021_02_08_at_4_46_21_PM_0d0434b2d5.png"
+				}
+			},
+			"hash": "Screen_Shot_2021_02_08_at_4_46_21_PM_0d0434b2d5",
+			"ext": ".png",
+			"mime": "image/png",
+			"size": 64.72,
+			"url": "/uploads/Screen_Shot_2021_02_08_at_4_46_21_PM_0d0434b2d5.png",
+			"previewUrl": null,
+			"provider": "local",
+			"provider_metadata": null,
+			"created_at": "2021-02-12T06:08:29.425Z",
+			"updated_at": "2021-02-12T06:08:29.437Z"
+		}
+	}
+]
